@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lab02</string>
+    <string name="greeting">Welcome!</string>
+    <string name="increment">increment</string>
+    <string name="decrement">decrement</string>
+    <string name="likes_count">You have %1$d likes!</string>
+    <string name="radio_label_down">Down</string>
+    <string name="radio_label_up">Up</string>
+    <string name="EnterName">Enter your name</string>
+    <string name="enter">Enter</string>
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+    </string-array>
+</resources>
